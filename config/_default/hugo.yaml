@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "The Science of Connections 2025" # Website name
-baseURL: 'https://mlgh.net/netsci_workshop_2025' # Website URL
+baseURL: 'https://mobilityhealthnetworks.github.io' # Website URL
 
 ############################
 ## LANGUAGE
