@@ -18,8 +18,8 @@ sections:
         url: https://forms.gle/X7VgEFRWQaEvxVTw9
         icon: pencil-square
       items:
-        - name: "Speakers"
-          description: "6 (3 keynote speakers)"
+        - name: "Sessions"
+          description: "6 (2 keynotes, 1 panel, 3 short talks)"
         - name: "Attendees"
           description: "20+"
         - name: "Venue"
