@@ -46,9 +46,7 @@ website: "mlgh-sg.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Speakers
-  - Hosts
-  - Committee
+  - Organizers
 ---
 
 I am an Assistant Professor at the National University of Singapore with a primary appointment at the Saw Swee Hock School of Public Health, and joint appointments at Institute of Data Science, and Department of Statistics and Data Science. My research focuses on applying and developing statistical machine learning techniques for the broader and messier world of science and public policy, especially global health. I develop flexible and scalable models for understanding various spatiotemporal data, for example, epidemics (COVID-19, Malaria, HIV) and crime.

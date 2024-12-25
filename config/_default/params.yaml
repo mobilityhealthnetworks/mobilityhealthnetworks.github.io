@@ -40,7 +40,7 @@ header:
     button:
       enable: true
       text: "Get Tickets"
-      url: "https://netsci2025.github.io/"
+      url: "https://netsci2025.github.io/registration/"
     show_search: false
     show_theme_chooser: false
 

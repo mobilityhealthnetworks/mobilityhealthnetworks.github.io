@@ -10,11 +10,15 @@ main:
   - name: About
     url: /#about
     weight: 20
-  - name: Organizers
+  - name: Speakers
     url: /#speakers
     weight: 30
+  - name: Organizers
+    url: /#organizers
+    weight: 50
   - name: Agenda
     url: /#agenda
+    weight: 40
 
 footer:
   - identifier: home
@@ -29,7 +33,7 @@ footer:
     weight: 2
   - parent: tickets
     name: Get Tickets
-    url: https://netsci2025.github.io/
+    url: https://netsci2025.github.io/registration/
     weight: 3
   - identifier: legal
     name: Legal

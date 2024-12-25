@@ -64,9 +64,19 @@ sections:
   - block: people
     id: speakers
     content:
+      title: Keynote Speakers
+      text: ""
+      user_groups: ['Keynote Speakers']
+    design:
+      show_role: true
+      show_social: true
+      show_interests: false
+  - block: people
+    id: organizers
+    content:
       title: Organizers
       text: ""
-      user_groups: ['Speakers']
+      user_groups: ['Organizers']
     design:
       show_role: true
       show_social: true

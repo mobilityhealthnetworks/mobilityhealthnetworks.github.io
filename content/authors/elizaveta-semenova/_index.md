@@ -45,9 +45,7 @@ website:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Speakers
-  - Hosts
-  - Committee
+  - Organizers
 ---
 
 I am a lecturer in Biostatistics, Computational Epidemiology and Machine Learning at Imperial College London, Department of Epidemiology and Biostatistics. And I also hold Schmidt Sciences AI2050 Early Career Fellowship.
