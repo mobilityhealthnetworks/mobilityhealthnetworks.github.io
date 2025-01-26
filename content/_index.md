@@ -42,9 +42,9 @@ sections:
   - block: countdown
     content:
       title: "Deadline for abstract submission"
-      text: "Jan 31, 2025"
+      text: "Feb 10, 2025"
       text_after: "Submit your abstract [here](https://forms.gle/X7VgEFRWQaEvxVTw9)"
-      date: '2025-01-31 23:59:59 -1200'
+      date: '2025-02-10 23:59:59 -1200'
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-500"
