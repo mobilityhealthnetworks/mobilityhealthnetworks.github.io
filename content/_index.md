@@ -23,9 +23,9 @@ sections:
         - name: "Attendees"
           description: "20+"
         - name: "Venue"
-          description: "[FPN Tongeren zaal](https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9)"
-        - name: "Location"
           description: "Faculty of Psychology and Neuroscience (FPN): Universiteitssingel 40, 6229 ER Maastricht"
+        - name: "Location"
+          description: "Maastricht, Netherlands"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -43,7 +43,7 @@ sections:
     content:
       title: "Workshop live on"
       text: "June 02, 2025"
-      text_after: "Submit your abstract [here](https://forms.gle/X7VgEFRWQaEvxVTw9)"
+      text_after: "Link to map [here](https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9)"
       date: '2025-06-02 00:00:01'
     design:
       # Section background color (CSS class)
