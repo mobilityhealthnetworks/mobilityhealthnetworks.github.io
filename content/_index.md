@@ -12,20 +12,20 @@ sections:
     content:
       title: The Science of Connections
       text: "**Urban Mobility and Health Network**"
-      details: "June 02, 2025. \n\n[NetSci 2025](https://netsci2025.github.io/)Maastricht, Netherlands"
-      primary_action:
-        text: Submit your abstract
-        url: https://forms.gle/X7VgEFRWQaEvxVTw9
-        icon: pencil-square
+      details: "June 02, 2025. \n\n[NetSci 2025](https://netsci2025.github.io/) Maastricht, Netherlands"
+      # primary_action:
+      #   text: Submit your abstract
+      #   url: https://forms.gle/X7VgEFRWQaEvxVTw9
+      #   icon: pencil-square
       items:
         - name: "Sessions"
           description: "6 (2 keynotes, 1 panel, 3 short talks)"
         - name: "Attendees"
           description: "20+"
         - name: "Venue"
-          description: "MECC Maastricht"
+          description: "[FPN Tongeren zaal](https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9)"
         - name: "Location"
-          description: "Maastricht, Netherlands"
+          description: "Faculty of Psychology and Neuroscience (FPN): Universiteitssingel 40, 6229 ER Maastricht"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -41,10 +41,10 @@ sections:
 #            brightness: 1.0
   - block: countdown
     content:
-      title: "Deadline for abstract submission"
-      text: "Feb 10, 2025"
+      title: "Workshop live on"
+      text: "June 02, 2025"
       text_after: "Submit your abstract [here](https://forms.gle/X7VgEFRWQaEvxVTw9)"
-      date: '2025-02-10 23:59:59 -1200'
+      date: '2025-06-02 00:00:01'
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-500"
