@@ -13,10 +13,10 @@ sections:
       title: The Science of Connections
       text: "**Urban Mobility and Health Network**"
       details: "June 02, 2025. \n\n[NetSci 2025](https://netsci2025.github.io/) Maastricht, Netherlands"
-      primary_action:
-        text: Submit your abstract
-        url: https://forms.gle/X7VgEFRWQaEvxVTw9
-        icon: pencil-square
+      # primary_action:
+      #   text: Submit your abstract
+      #   url: https://forms.gle/X7VgEFRWQaEvxVTw9
+      #   icon: pencil-square
       items:
         - name: "Sessions"
           description: "6 (2 keynotes, 1 panel, 3 short talks)"
